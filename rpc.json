@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ethereum Mainnet",
+    "endpoint": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+    "chainId": 1,
+    "explorer": "https://etherscan.io"
+  },
+  {
+    "name": "BSC Mainnet",
+    "endpoint": "https://bsc-dataseed.binance.org/",
+    "chainId": 56,
+    "explorer": "https://bscscan.com"
+  },
+  {
+    "name": "Polygon Mainnet",
+    "endpoint": "https://polygon-rpc.com/",
+    "chainId": 137,
+    "explorer": "https://polygonscan.com"
+  }
+]
