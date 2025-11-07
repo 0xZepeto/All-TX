@@ -7,13 +7,14 @@
     "start": "node main.js"
   },
   "dependencies": {
-    "ethers": "6.15.0",
-    "inquirer": "8.0.0",
-    "dotenv": "^17.2.3",
-    "fs-extra": "^11.2.0",
-    "cli-progress": "^3.12.0",
-    "p-limit": "^5.0.0",
-    "ora": "^8.0.1",
-    "chalk": "4.1.2"
+  "ethers": "6.15.0",
+  "inquirer": "8.0.0",
+  "dotenv": "^17.2.3",
+  "fs-extra": "^11.2.0",
+  "cli-progress": "^3.12.0",
+  "p-limit": "^5.0.0",
+  "ora": "^8.0.1",
+  "chalk": "4.1.2",
+  "boxen": "7.0.0",
+  "figlet": "1.6.0"
   }
-}
